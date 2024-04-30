@@ -2,4 +2,4 @@ Flickr image project
 
 Read from the API and save the images (offline storage)
 
-Difficulty Level: Intermediate
+Difficulty Level: Beginner - Intermediate
